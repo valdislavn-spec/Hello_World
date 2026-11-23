@@ -17,7 +17,7 @@
     "cf-typegen": "wrangler types"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^14.1.0",
+    "@astrojs/cloudflare": "^14.4.9",
     "@astrojs/react": "^6.0.0",
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
